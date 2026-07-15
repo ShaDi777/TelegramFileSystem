@@ -1,0 +1,7 @@
+application:
+  backend:
+    url: http://winhost:8080
+
+spring:
+  application:
+    name: TelegramFS
